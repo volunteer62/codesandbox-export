@@ -1,0 +1,21 @@
+.App {
+  font-family: Georgia, serif;
+  text-align: start;
+}
+
+input {
+  width: 90%;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+.header {
+  color: rgb(252, 25, 120);
+}
+.item-container {
+  border-radius: 5px;
+  border: 2px outset rgb(255, 192, 213);
+  margin: 7px;
+  padding: 7px;
+}
